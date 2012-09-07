@@ -1,0 +1,7 @@
+
+you need to install mpc and oggenc (package ogg-vorbis)
+
+place the mpdclient direktory in ~/.kde4/share/apps/amarok/scripts/ or something similar
+
+
+ 
